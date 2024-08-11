@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in software development / java development
 - 🌱 I have done java, springboot and currently I'm learning react js
-- 📫 How to reach me: karyansingh78@gmail.com
+- 📫 How to reach me: karyansingh17@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I' am aryan with K.
 
